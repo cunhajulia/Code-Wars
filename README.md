@@ -1,0 +1,1 @@
+This is a repo of my daily Codewars, beginning on March 13, 2023, until present time. An important note: the 'Week 5' file contains my first week of daily challenges (specifically between March 13 - March 28). Each date outside of the 'Week ' folder contains at least 1 Codewars categorized by date. 

@@ -8,3 +8,4 @@ function NameMe(first, last, name) {
   this.lastName = last;
   this.name = this.firstName + ' ' + this.lastName;
 }
+//testing
